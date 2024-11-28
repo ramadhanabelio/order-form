@@ -1,0 +1,19 @@
+body {
+  background-color: #f8f9fa;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 400px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.menu-button {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
